@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @userjeevankumar
+- 👋 Hi, I’m Jeevan Kumar
 - 👀 I’m interested in Frontend coding
 - 🌱 I’m currently learning MERN Full Stack Course
 - 💞️ I’m looking to collaborate on React.js
